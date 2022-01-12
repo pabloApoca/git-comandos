@@ -1,3 +1,5 @@
+#Comandos utiles de Git
+
 1. git init
 2. git add .
 3. git reset .
@@ -9,3 +11,4 @@
 9. git checkout master
 10. git branch -d rama-heroes
 11. git push
+12. git commit -am
